@@ -1,4 +1,4 @@
-# smart-mouse
+# smart mouse
 
 自动驾驶电耗子
 
